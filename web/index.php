@@ -6,6 +6,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
-こちらはLINE Messaging APIのデモサイトです。
+xxxxxxxxxxxxxxxxxxxxこちらはLINE Messaging APIのデモサイトです。
 </body>
 </html>
